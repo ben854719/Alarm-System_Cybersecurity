@@ -32,6 +32,4 @@ The project aims to develop a **C++-based alarm system** that detects malware at
 4. **Monitoring**  
    - Use LangGraph and Gemini for threat visualization and decision-making insights.
 
----
 
-Would you like any additional sections, such as **Contributing** or **License**? Let me know, and I’d be happy to refine this further! 🚀
