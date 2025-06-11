@@ -1,6 +1,7 @@
 # Alarm System for Cybersecurity
 
-## Summary
+## Project Overview:
+
 The project aims to develop a **C++-based alarm system** that detects malware attempting to steal user information. The system integrates **Agentic AI**, utilizing a generative algorithm to identify suspicious activity on a user's computer. This AI-driven approach enables real-time malware detection, allowing cybersecurity analysts to proactively counter threats before they compromise sensitive data.
 
 ## Features
